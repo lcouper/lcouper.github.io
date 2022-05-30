@@ -9,4 +9,4 @@ redirect_from:
 
 *Updated 5/30/22*
 
-<a href="CouperCV_2022.pdf" download>Click to Download</a>
+<a href="CouperCV_2022.pdf" download>CV 2022</a>
