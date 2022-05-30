@@ -76,7 +76,7 @@ analytics:
 # Site Author
 author:
   name             : "Lisa Couper"
-  avatar           : "assets/Couper_HeadShot.jpg"
+  avatar           : "/assets/Couper_HeadShot.jpg"
   bio              : "PhD candidate, Stanford"
   location         : "Location"
   employer         :
