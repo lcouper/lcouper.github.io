@@ -7,14 +7,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Outreach & SciComm"
+  - title: "Outreach"
     url: /portfolio/
         
-  - title: "Teaching"
+  - title: "SciComm"
     url: /year-archive/
     
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
