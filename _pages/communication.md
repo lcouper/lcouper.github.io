@@ -7,6 +7,7 @@ author_profile: true
 
 # Science Communication #
 
+Please see below for various articles and videos I've worked on communicating research
 
 Stanford Daily article on covid publication trends:   
 https://stanforddaily.com/2022/01/20/two-year-anniversary-stanfords-contribution-to-covid-19-research/
@@ -24,3 +25,6 @@ https://scientistsspeakup.org/a-state-on-fire-trends-and-solutions-to-california
 
 *Navigating mental health resources at Stanford*  
 https://www.mordecailab.com/blog/2022/3/14/navigating-mental-health-resources-at-stanford
+
+Video about the Lyme disease pathogen, *Borrelia burgdorferi*:    
+https://www.youtube.com/watch?v=VEeEfCbqWRU 
