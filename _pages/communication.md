@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Communication"
-permalink: /communcation/
+permalink: /communication/
 author_profile: true
 ---
 
