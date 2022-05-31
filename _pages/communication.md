@@ -13,7 +13,7 @@ Please see below for various articles and videos I've worked on communicating re
    
 <a href="https://scientistsspeakup.org/a-state-on-fire-trends-and-solutions-to-california-wildfires/"> CA wildfires (through Scientists Speak Up) </a>
       
-<a href="https://scientistsspeakup.org/a-state-on-fire-trends-and-solutions-to-california-wildfires/"> How to submit a scientific paper (through the Mordecai lab blog) </a>
+<a href="https://www.mordecailab.com/blog/submitting-a-paper"> How to submit a scientific paper (through the Mordecai lab blog) </a>
       
 <a href="https://www.mordecailab.com/blog/2022/3/14/navigating-mental-health-resources-at-stanford"> Navigating mental health resources at Stanford (through the Mordecai lab blog) </a>
 
