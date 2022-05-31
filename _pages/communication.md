@@ -5,8 +5,6 @@ permalink: /communication/
 author_profile: true
 ---
 
-# Science Communication #
-
 Please see below for various articles and videos I've worked on communicating research
 
 Stanford Daily article on covid publication trends:   
