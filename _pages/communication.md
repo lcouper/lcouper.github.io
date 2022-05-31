@@ -24,5 +24,5 @@ https://scientistsspeakup.org/a-state-on-fire-trends-and-solutions-to-california
 *Navigating mental health resources at Stanford*  
 https://www.mordecailab.com/blog/2022/3/14/navigating-mental-health-resources-at-stanford
 
-Video about the Lyme disease pathogen, *Borrelia burgdorferi*:    
+Somewhat embarassing video about the Lyme disease pathogen, *Borrelia burgdorferi*:    
 https://www.youtube.com/watch?v=VEeEfCbqWRU 
