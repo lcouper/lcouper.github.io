@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "disease ecology and evolution under global change"
+title: "Disease ecology and evolution under global change"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
