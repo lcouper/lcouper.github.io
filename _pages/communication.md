@@ -5,7 +5,7 @@ permalink: /communication/
 author_profile: true
 ---
 
-Please see below for various articles and videos I've worked on communicating research
+Please see below for various articles and videos I've worked on communicating research (my own and that of others)
 
 Stanford Daily article on covid publication trends:   
 https://stanforddaily.com/2022/01/20/two-year-anniversary-stanfords-contribution-to-covid-19-research/
