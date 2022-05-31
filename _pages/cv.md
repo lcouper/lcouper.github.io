@@ -9,5 +9,4 @@ redirect_from:
 
 *Updated 5/30/22*
 
-<a href="https://lcouper.github.io/assets/CouperCV_2022.pdf" download>Couper_CV_2022</a>
-
+<a href="https://lcouper.github.io/assets/CouperCV_2022.pdf">Couper_CV_2022</a>
