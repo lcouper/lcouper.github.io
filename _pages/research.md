@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-# Current Research 
+# Current Research #
 
 I am fascinated by how mosquitoes and other disease vectors may adapt to climate change. Check out our review on this topic [here!](https://elifesciences.org/articles/69630) 
 
