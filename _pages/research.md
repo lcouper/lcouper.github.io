@@ -24,9 +24,28 @@ A key component of adaptive potential is whether there is currently variation (p
 
 Lyme disease cases have been increasing in the U.S. in recent decades. Despite well known associations between aspects of weather and climate and tick life cycles, the role of climate *change* in this increase in cases was unclear. Isolating the impact of climate change on cases is difficult due to changes in other known drivers like public and physician awareness of ticks, land cover, income, and changes in Lyme disease case definitions.  Using a statistical modeling approach that could account for concurrent changes in these drivers, we were able to isolate the effect of climate on U.S. Lyme disease cases in the past 18 years. We found that the strongest climate-disease association was between warming annual temperatures and increasing incidence in the Northeast. Our Lyme disease projections indicated that cases in the Northeast will increase significantly by 2050, but only under an upper climate change scenario (RCP8.5), and with large uncertainty around this projected increase. 
 
+<p align="center">
+  <img width="600"
+    src="http://lcouper.github.io/assets/Couper_GCB_Figure3.jpg">
+  </p>    
+<p align="center"> 
+Projected change in Lyme disease cases for 2100 shown at the county level under the (a) upper (RCP8.5) and (b) moderate (RCP4.5) climate change scenarios. Case changes refer to raw case counts rather than incidence and are relative to hindcasted values for 2010–2020. All counties within the Mountain Prairie are shown in gray as this region was not included in the analysis. Other counties shown in gray (n = 49) containing missing disease, land cover or climate data
+ </p>  
+
+
 ## [Impacts of drought on an ongoing biological invasion](https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/ecy.3476) ## 
 
 Invasive species and climate change are independently two of the greatest threats to biodiversity and ecosystem functioning. Further, climate change may alter invasion dynamics, but this is challenging to study given the context-dependence of invasions and the need for long-term datasets. Stanford’s Biological Preserve — Jasper Ridge — is home to one of the most complete, long-term surveys of a biological invasion — a  Northern California ant community invaded by the Argentine ant (Linepithema humile), which has been surveyed from 1993 to the present. This period captured regional changes in temperature and precipitation including a ‘once-in-a-millennium’ drought event from 2012-2015. Using the ant survey data and a structural equation modeling approach, we found the strongest impact on the spread of the Argentine ant was from *direct* effects of climate, namely cumulative precipitation and summer maximum temperatures, with only a negligible role for biotic resistance from native ants. This suggests that increasing drought and high temperature extremes, as projected for northern California due to anthropogenic driven climate change, may limit the spread, and possibly the impact, of the Argentine ant in invaded regions. 
+
+
+<p align="center">
+  <img width="600"
+    src="http://lcouper.github.io/assets/Couper_ants_fig2.jpg">
+  </p>    
+<p align="center"> 
+<p align="center"> 
+Final structural equation model relating climate, spring distributions of native ants and Prenolepis imparis, and fall distributions of Linepithema humile (χ2 = 8.51, df = 11, P = 0.39). Path coefficients are displayed next to arrows and represent the expected change in the response given a one-unit change in the predictor given the other variables. Path coefficients are either standardized by the standard deviation of the variables (bold, top), or unstandardized (bottom). Nondashed arrows and asterisks next to parameter estimates denote significant relationships (P < 0.05). Red and blue arrows denote negative and positive relationships, respectively. Double-headed arrows represent covariances.
+</p>
 
 ## Role of the tick microbiome in Lyme disease transmission ##
 
