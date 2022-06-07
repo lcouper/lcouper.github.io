@@ -43,7 +43,6 @@ Invasive species and climate change are independently two of the greatest threat
     src="http://lcouper.github.io/assets/Couper_ants_fig2.jpg">
   </p>    
 <p align="center"> 
-<p align="center"> 
 Final structural equation model relating climate, spring distributions of native ants and Prenolepis imparis, and fall distributions of Linepithema humile (χ2 = 8.51, df = 11, P = 0.39). Path coefficients are displayed next to arrows and represent the expected change in the response given a one-unit change in the predictor given the other variables. Path coefficients are either standardized by the standard deviation of the variables (bold, top), or unstandardized (bottom). Nondashed arrows and asterisks next to parameter estimates denote significant relationships (P < 0.05). Red and blue arrows denote negative and positive relationships, respectively. Double-headed arrows represent covariances.
 </p>
 
