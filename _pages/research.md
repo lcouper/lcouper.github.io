@@ -16,8 +16,8 @@ A key component of adaptive potential is whether there is currently variation (p
   Aedes sierrensis male in flight. Photo taken by collaborator Andrew Rivera  </p>  
 
 
-# Previous Research # 
 
+# Previous Research # 
 ## [Impacts of climate change on Lyme disease in the U.S.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15435) ##
 
 Lyme disease cases have been increasing in the U.S. in recent decades. Despite well known associations between aspects of weather and climate and tick life cycles, the role of climate *change* in this increase in cases was unclear. Isolating the impact of climate change on cases is difficult due to changes in other known drivers like public and physician awareness of ticks, land cover, income, and changes in Lyme disease case definitions.  Using a statistical modeling approach that could account for concurrent changes in these drivers, we were able to isolate the effect of climate on U.S. Lyme disease cases in the past 18 years. We found that the strongest climate-disease association was between warming annual temperatures and increasing incidence in the Northeast. Our Lyme disease projections indicated that cases in the Northeast will increase significantly by 2050, but only under an upper climate change scenario (RCP8.5), and with large uncertainty around this projected increase. 
