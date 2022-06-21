@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: "Disease ecology and evolution under global change"
 excerpt: "About me"
 author_profile: true
