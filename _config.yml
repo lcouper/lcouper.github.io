@@ -173,6 +173,9 @@ collections:
   teaching&mentorship:
     output: true
     permalink: /:collection/:path/
+  about:
+    output: true
+    permalink: /:collection/:path/
   research:
     output: true
     permalink: /:collection/:path/
