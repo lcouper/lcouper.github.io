@@ -4,7 +4,7 @@ permalink: /teaching&mentorship/
 author_profile: true
 ---
 
-I care deeply about expanding educational and research opportunities to a wider audience. In my teaching and mentoring (and in my own learning), I strive to foster a growth mindset -- everyone has the ability to learn improve their abilities through effort, support, and experience.
+I care deeply about expanding educational and research opportunities to a wider audience. In my teaching and mentoring (and in my own learning), I strive to foster a growth mindset -- everyone has the ability to learn and improve their abilities through effort, support, and experience.
 Below are some of the teaching and mentorship experiences I've been able to take part in.
 
 ## Teaching ##
