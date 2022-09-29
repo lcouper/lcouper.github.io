@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+13. **Couper LI** & Mordecai EA. Ecological drivers of dog heartworm transmission in California. *Under review at Parasites & Vectors* 
+
 12. Ring KC, **Couper LI**, Sapiro AL, Yarza F, Yang XF, Clay K, Mateusiak C, Chou S, Swei A. Host blood meal identity modifies vector gene expression and competency. Molecular Ecology. 2022.
 
 11. **Couper LI**, Farner JE, Caldwell JM, Childs ML, Harris MJ, Kirk DG, Nova N, Shocket M,  Skinner EB, Uricchio LH, Exposito-Alonso M, and Mordecai EA. How will mosquitoes adapt to climate warming? eLife. 2021
