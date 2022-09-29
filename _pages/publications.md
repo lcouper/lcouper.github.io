@@ -33,9 +33,9 @@ author_profile: true
 
 ## Book Chapters
 
-Kirk DG, Skinner EB, Shocket MS, {\bf Couper LI}, Nova N, Athni TS, Pourtois JD, Farner JE, Childs ML, Nyathi S, Mordecai EA. Climate Change and Disease Ecology. In: Suzán G, Aguirre AA, Mills JM, editors. The Ecology of Infectious Diseases: Methods on Evolution, Biodiversity, and Environmental Interactions. Oxford University Press. In press.
+Kirk DG, Skinner EB, Shocket MS, **Couper LI**, Nova N, Athni TS, Pourtois JD, Farner JE, Childs ML, Nyathi S, Mordecai EA. Climate Change and Disease Ecology. In: Suzán G, Aguirre AA, Mills JM, editors. The Ecology of Infectious Diseases: Methods on Evolution, Biodiversity, and Environmental Interactions. Oxford University Press. In press.
 
-Shocket MS, Anderson CB, Caldwell JM, Childs ML, {\bf Couper LI}, Han S, Harris MJ, Howard ME, Kain MP, MacDonald AJ, Nova N, Mordecai EA. 2020. Environmental Drivers of Vector-Borne Diseases. In: Drake JM, editor. Ecology and Evolution of Infectious Diseases: Population Biology of Vector-borne Diseases. Oxford University Press (accepted, in press).
+Shocket MS, Anderson CB, Caldwell JM, Childs ML,  **Couper LI**, Han S, Harris MJ, Howard ME, Kain MP, MacDonald AJ, Nova N, Mordecai EA. 2020. Environmental Drivers of Vector-Borne Diseases. In: Drake JM, editor. Ecology and Evolution of Infectious Diseases: Population Biology of Vector-borne Diseases. Oxford University Press (accepted, in press).
 
 ## Conference papers
 
