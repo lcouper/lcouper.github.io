@@ -39,4 +39,4 @@ Shocket MS, Anderson CB, Caldwell JM, Childs ML,  **Couper LI**, Han S, Harris M
 
 ## Conference papers
 
-Johannes K, Powers J, {\bf Couper LI}, Silberglitt M, Davenport JL. 2016. Tangible Models and Haptic Representations Aid Learning of Molecular Biology Concepts. Proceedings of the 38th Annual Meeting of the Cognitive Science Society, 372-377
+Johannes K, Powers J, **Couper LI**, Silberglitt M, Davenport JL. 2016. Tangible Models and Haptic Representations Aid Learning of Molecular Biology Concepts. Proceedings of the 38th Annual Meeting of the Cognitive Science Society, 372-377
