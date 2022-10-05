@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Couper LI** & Mordecai EA. Ecological drivers of dog heartworm transmission in California. *Under review at Parasites & Vectors* 
+1. **Couper LI** & Mordecai EA. Ecological drivers of dog heartworm transmission in California. *Accepted in Parasites & Vectors* 
 
 2. Ring KC, **Couper LI**, Sapiro AL, Yarza F, Yang XF, Clay K, Mateusiak C, Chou S, Swei A. Host blood meal identity modifies vector gene expression and competency. Molecular Ecology. 2022.
 
