@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m a PhD candidate in Biology at Stanford University, interested in the impacts of global change on infectious disease. My research focuses on how climate change may alter the distribution of vector-borne disease and how vectors may adapt to warming through ecological and evolutionary mechanisms. This involves a combination of field work, lab experiments, genomics, and mathematical and statistical modeling. 
+I’m a PhD candidate in Biology at Stanford University, interested in the impacts of global change on infectious disease. My research focuses on how climate change may alter the distribution of vector-borne diseases and how vectors may adapt to warming through ecological and evolutionary mechanisms. This involves a combination of field work, lab experiments, genomics, and mathematical and statistical modeling. 
 
 Outside of lab, I enjoy playing ultimate frisbee and am fortunate to be part of an incredible team, [Fury](http://furyultimate.com).
 
