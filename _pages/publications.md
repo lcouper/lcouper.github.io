@@ -13,7 +13,7 @@ author_profile: true
 
 4. **Couper LI**, NJ Sanders, NE Heller, and DM Gordon. Multiyear drought exacerbates long‐term effects of climate on an invasive ant species. Ecology. 2021.
 
-5. **Couper LI**, MacDonald AJ, Mordecai EA. Impact of prior and projected climate change on US Lyme Disease incidence. Global Change Biology. 2021.
+5. **Couper LI**, MacDonald AJ, Mordecai EA. Impact of prior and projected climate change on US Lyme Disease incidence. Global Change Biology. 2021. <a href="https://lcouper.github.io/assets/Couper_2020_GCB.pdf" target="_blank">pdf</a>
 
 6. Childs ML*, Kain MP*, Kirk D*, Harris M, **Couper LI**, Nova N, Delwel I, Ritchie J, Mordecai EA. The impact of long-term non-pharmaceutical interventions on COVID-19 epidemic dynamics and control: the value and limitations of early models. Proceedings of the Royal Society B. 2021
 
