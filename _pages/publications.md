@@ -29,7 +29,7 @@ author_profile: true
 
 12. Chicana B, **Couper LI**, Kwan JY, Tahiraj E, Swei A.  Microbiome profiles of sympatric tick species in the western United States. Insects. 2019. [Link.](https://www.mdpi.com/555856)
 
-13. **Couper LI** & Swei A. Tick microbiome characterization by next-generation 16S rRNA amplicon sequencing. J. Vis. Exp. 2018.
+13. **Couper LI** & Swei A. Tick microbiome characterization by next-generation 16S rRNA amplicon sequencing. J. Vis. Exp. 2018. <a href="https://lcouper.github.io/assets/Couper_2018_jove.pdf" target="_blank">PDF.</a>
 
 ## Book Chapters
 
