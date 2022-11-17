@@ -23,11 +23,11 @@ author_profile: true
 
 9. Swei A, **Couper LI**, Coffey LL, Kapan D, Bennett S. Patterns, drivers, and challenges of vector-borne zoonotic disease emergence. Vector Borne Zoonotic Diseases. 2020. [Link.](https://www.liebertpub.com/doi/full/10.1089/vbz.2018.2432?casa_token=yzWQWWtGKGwAAAAA%3AU3NNB4dVM2Ztnz7xlAyymv5tKWt75nudfBUOKstxL1Jqayo3vwSnr_eqkrHuj8MyM_MWLKe8DQO56A)
 
-10. Swei A, O’Connor KE, **Couper LI**, Thekkiniath J, Conrad PA, Padgett KA, Burns J, Yoshimizu MH, GonzalesB, Munk B, Shirkey N, Konde L, Mamoun CB, Lane LS, Kjemtrup A. 2018. Evidence for transmission of the zoonotic apicomplexan parasite Babesia duncani by the tick Dermacentor albipictus. Int J Parasitol. 2019. 
+10. Swei A, O’Connor KE, **Couper LI**, Thekkiniath J, Conrad PA, Padgett KA, Burns J, Yoshimizu MH, GonzalesB, Munk B, Shirkey N, Konde L, Mamoun CB, Lane LS, Kjemtrup A. 2018. Evidence for transmission of the zoonotic apicomplexan parasite Babesia duncani by the tick Dermacentor albipictus. Int J Parasitol. 2019. [Link.](https://www.sciencedirect.com/science/article/pii/S0020751918302431?casa_token=Bezv1DAbdQUAAAAA:xmkOP3qfoos1nuNJax7wZje3BzceR6l7JbC6tniflZoNhAUkXWmjSPd_iaFsfMtLCvt3ERESeoM)
 
-11. **Couper LI**, Kwan JY, Ma J, Swei A. Drivers and patterns of microbial community assembly in a Lyme disease vector. Ecol. Evol. 2019.
+11. **Couper LI**, Kwan JY, Ma J, Swei A. Drivers and patterns of microbial community assembly in a Lyme disease vector. Ecol. Evol. 2019. [Link.](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.5361)
 
-12. Chicana B, **Couper LI**, Kwan JY, Tahiraj E, Swei A.  Microbiome profiles of sympatric tick species in the western United States. Insects. 2019. 
+12. Chicana B, **Couper LI**, Kwan JY, Tahiraj E, Swei A.  Microbiome profiles of sympatric tick species in the western United States. Insects. 2019. [Link.](https://www.mdpi.com/555856)
 
 13. **Couper LI** & Swei A. Tick microbiome characterization by next-generation 16S rRNA amplicon sequencing. J. Vis. Exp. 2018.
 
