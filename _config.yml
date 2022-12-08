@@ -213,7 +213,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching&mentorship
+  # _teaching&tutorials
   - scope:
       path: ""
       type: teaching
