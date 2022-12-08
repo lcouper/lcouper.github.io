@@ -4,8 +4,7 @@ permalink: /teaching&mentorship/
 author_profile: true
 ---
 
-I care deeply about expanding educational and research opportunities to a wider audience. In my teaching and mentoring (and in my own learning), I strive to foster a growth mindset -- everyone has the ability to learn and improve their abilities through effort, support, and experience.
-Below are some of the teaching and mentorship experiences I've been able to take part in.
+I care deeply about expanding educational and research opportunities to a wider audience. Below are some of the teaching and mentorship experiences I've been able to take part in, and some analysis tutorials I'm working on to share methods used in common biological analyses. 
 
 ## Teaching ##
 
@@ -19,3 +18,7 @@ Below are some of the teaching and mentorship experiences I've been able to take
 - Tutor, East Palo Alto High School Tutoring (2021 - 2022)   
 - Tutor, Stanford Future Advances of Science and Technology (2021)   
 - Research Mentor, Stanford Biology Summer Undergraduate Reseach Program (2018, 2020)  
+
+## Analysis Tutorials ##
+
+- Bayesian modeling of thermal responses. Tutorial <a href="https://github.com/lcouper/AnalysisTutorials/tree/main/BayesianCurveFitting"> here</a>   
