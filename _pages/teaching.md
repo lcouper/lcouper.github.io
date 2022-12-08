@@ -21,4 +21,4 @@ I care deeply about expanding educational and research opportunities to a wider 
 
 ## Analysis Tutorials ##
 
-- Bayesian modeling of thermal responses. Tutorial <a href="https://github.com/lcouper/AnalysisTutorials/tree/main/BayesianCurveFitting"> here</a>   
+- <a href="https://github.com/lcouper/AnalysisTutorials/tree/main/BayesianCurveFitting">Bayesian modeling of thermal responses</a>   
