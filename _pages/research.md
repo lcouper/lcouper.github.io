@@ -19,7 +19,7 @@ Lyme disease cases have been increasing in the U.S. in recent decades. Despite w
     src="http://lcouper.github.io/assets/Couper_GCB_Figure3.jpg">
   </p>    
 <p align="center"> 
-Projected change in Lyme disease cases for 2100 shown at the county level under the (a) upper (RCP8.5) and (b) moderate (RCP4.5) climate change scenarios. Case changes refer to raw case counts rather than incidence and are relative to hindcasted values for 2010–2020. All counties within the Mountain Prairie are shown in gray as this region was not included in the analysis. Other counties shown in gray (n = 49) containing missing disease, land cover or climate data
+.small[Projected change in Lyme disease cases for 2100 shown at the county level under the (a) upper (RCP8.5) and (b) moderate (RCP4.5) climate change scenarios. Case changes refer to raw case counts rather than incidence and are relative to hindcasted values for 2010–2020. All counties within the Mountain Prairie are shown in gray as this region was not included in the analysis. Other counties shown in gray (n = 49) containing missing disease, land cover or climate data]
  </p>  
 
 
