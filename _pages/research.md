@@ -10,8 +10,6 @@ My research focuses on two central questions:
 
 ## Impact of global change on vector-borne disease ##
 
-### Climate change & Lyme disease in the U.S. ###
-
 Lyme disease cases have been increasing in the U.S. in recent decades. Despite well known associations between aspects of weather and climate and tick life cycles, the role of climate *change* in this increase in cases was unclear. Isolating the impact of climate change on cases is difficult due to changes in other known drivers like public and physician awareness of ticks, land cover, income, and changes in Lyme disease case definitions.  Using a statistical modeling approach that could account for concurrent changes in these drivers, we were able to isolate the effect of climate on U.S. Lyme disease cases in the past 18 years. We found that the strongest climate-disease association was between warming annual temperatures and increasing incidence in the Northeast. Our Lyme disease projections indicated that cases in the Northeast will increase significantly by 2050, but only under an upper climate change scenario (RCP8.5), and with large uncertainty around this projected increase. See the full paper [here](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15435).
 
 <p align="center">
@@ -19,9 +17,10 @@ Lyme disease cases have been increasing in the U.S. in recent decades. Despite w
     src="http://lcouper.github.io/assets/Couper_GCB_Figure3b.jpg">
   </p>    
 
+I've also worked on identifying the [ecological drivers of dog heartworm transmission in California](https://link.springer.com/article/10.1186/s13071-022-05526-x), synthesizing global [patterns of vector-borne disease emergence](https://www.liebertpub.com/doi/full/10.1089/vbz.2018.2432?casa_token=yzWQWWtGKGwAAAAA%3AU3NNB4dVM2Ztnz7xlAyymv5tKWt75nudfBUOKstxL1Jqayo3vwSnr_eqkrHuj8MyM_MWLKe8DQO56A), and uncovering the [role of the tick microbiome in Lyme disease transmission](https://onlinelibrary.wiley.com/doi/10.1111/mec.16413).
 
 
-## Vectors adapting to climate warming ##
+### Vectors adapting to climate warming ###
 
 Climate-based forecasts of vector-borne diseases are critical for preparing for effective vector control and public health measures. However nearly all such forecasts ignore the possibility of vectors *adapting* to changing conditions-- a simplifying assumption that could have a big impact on predictive accuracy. This assumption is likely invalid because most vectors are short-lived, have large population sizes, and are highly sensitive to temerature (so will experience strong selection pressure). We outline the importance of incorproating adaptive potential, and provide a framework for doing so [here!](https://elifesciences.org/articles/69630), using mosquito thermal adaptation as a case study.
 
