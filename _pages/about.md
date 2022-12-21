@@ -13,7 +13,7 @@ I’m a PhD candidate in Biology at Stanford University, interested in the impac
 Outside of lab, I enjoy playing ultimate frisbee and am fortunate to be part of an incredible team, [Fury](http://furyultimate.com).
 
 <p align="center">
-  <img width="500"
+  <img width="600"
     src="http://lcouper.github.io/assets/Fav3.jpg">
   </p>    
 <p align="center"> 
