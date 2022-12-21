@@ -29,10 +29,9 @@ A key component of adaptive potential is whether there is currently variation (p
 
 <p align="center">
   <img width="400"
-    src="http://lcouper.github.io/assets/MaleinFlight.jpg">
+    src="http://lcouper.github.io/assets/AeSierrensisWork.jpg">
   </p>    
-<p align="center"> 
-  Aedes sierrensis male in flight. Photo taken by collaborator Andrew Rivera  </p>  
+
 
 
 
