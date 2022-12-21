@@ -15,12 +15,13 @@ Lyme disease cases have been increasing in the U.S. in recent decades. Despite w
 <p align="center">
   <img width="700"
     src="http://lcouper.github.io/assets/Couper_GCB_Figure3b.jpg">
-  </p>    
+  </p>   
+  
 
 I've also worked on identifying the [ecological drivers of dog heartworm transmission in California](https://link.springer.com/article/10.1186/s13071-022-05526-x), synthesizing global [patterns of vector-borne disease emergence](https://www.liebertpub.com/doi/full/10.1089/vbz.2018.2432?casa_token=yzWQWWtGKGwAAAAA%3AU3NNB4dVM2Ztnz7xlAyymv5tKWt75nudfBUOKstxL1Jqayo3vwSnr_eqkrHuj8MyM_MWLKe8DQO56A), and uncovering the [role of the tick microbiome in Lyme disease transmission](https://onlinelibrary.wiley.com/doi/10.1111/mec.16413).
 
 
-### Vectors adapting to climate warming ###
+## Vectors adapting to climate warming ##
 
 Climate-based forecasts of vector-borne diseases are critical for preparing for effective vector control and public health measures. However nearly all such forecasts ignore the possibility of vectors *adapting* to changing conditions-- a simplifying assumption that could have a big impact on predictive accuracy. This assumption is likely invalid because most vectors are short-lived, have large population sizes, and are highly sensitive to temerature (so will experience strong selection pressure). We outline the importance of incorproating adaptive potential, and provide a framework for doing so [here!](https://elifesciences.org/articles/69630), using mosquito thermal adaptation as a case study.
 
