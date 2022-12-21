@@ -14,7 +14,7 @@ Outside of lab, I enjoy playing ultimate frisbee and am fortunate to be part of 
 
 <p align="center">
   <img width="500"
-    src="http://lcouper.github.io/assets/Fav2.jpg">
+    src="http://lcouper.github.io/assets/Fav3.jpg">
   </p>    
 <p align="center"> 
 
