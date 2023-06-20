@@ -1,4 +1,4 @@
----
+le1---
 permalink: /
 title: "Global change and infectious disease"
 excerpt: "About me"
@@ -14,7 +14,7 @@ Outside of lab, I enjoy playing ultimate frisbee and am fortunate to be part of 
 
 <p align="center">
   <img width="600"
-    src="http://lcouper.github.io/assets/Fav3.jpg">
+    src="http://lcouper.github.io/assets/Sampling1.jpg">
   </p>    
 <p align="center"> 
 
