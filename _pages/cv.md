@@ -10,4 +10,3 @@ redirect_from:
 *Updated 08/14/23*
 
 <a href="https://lcouper.github.io/assets/Couper_CV_August2023.pdf" target="_blank">Couper CV</a>
- 
