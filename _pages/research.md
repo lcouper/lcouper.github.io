@@ -6,7 +6,8 @@ author_profile: true
 
 My research focuses on understanding a) impacts of global change on infectious disease systems and b) dynamic responses of disease vectors to warming. Please see below for summaries from some recent work! 
 
-## Mosquito eco-evolutionary responses to climate warming ##
+---
+### Mosquito eco-evolutionary responses to climate warming ###
 
 Climate-based forecasts of vector-borne diseases are critical for preparing effective vector control and public health measures. However, nearly all such forecasts ignore the possibility of vectors *adapting* to changing conditions-- a simplifying assumption that could have a big impact on predictive accuracy. This assumption is likely invalid because most vectors are short-lived, have large population sizes, and are highly sensitive to temerature (so will experience strong selection pressure). We outline the importance of incorproating adaptive potential, and provide a framework for doing so [here](https://elifesciences.org/articles/69630), using mosquito thermal adaptation as a case study.
 
@@ -17,7 +18,9 @@ A key component of adaptive potential is whether there is currently variation in
     src="http://lcouper.github.io/assets/AeSierrensisWork.jpg">
   </p>    
 
-## Mechanisms and genetic basis of mosquito heat tolerance ##
+---
+
+### Mechanisms and genetic basis of mosquito heat tolerance ###
 
 Under climate warming, mosquito populations may face not only increasing mean temperatures, but increasing short-term extremes and variation in temperature. Understanding how mosquitoes may cope with these varying aspects of temperature is important for estimating their future distributions, and corresponding, those of mosquito-borne diseases. During my PhD, I investigated the relationshp between long-term heat exposure and acute heat tolerance, and the genetic basis of these two heat tolernace traits. To do so, I conducted an artificial selection experiment, in which I reared *Aedes sierrensis* individuals under either standard (22) or high temperatures (30C). Using the surviving individuals, I assayed upper heat tolerance (using a 'thermal knockdown'), and conducted whole-genome sequencing. We found that heat-exposure during development led to smaller adult body sizes and impaired acute heat tolerance. Further we found a distinct, and polygenic basis for these heat tolerance traits. The manuscript is still in prep - please check back soon!
 
@@ -26,15 +29,18 @@ Under climate warming, mosquito populations may face not only increasing mean te
 src="https://github.com/lcouper/lcouper.github.io/assets/10873177/97f3bd3a-4945-43c1-acbf-7884f875015d">
 </p>
 
+---
+
 ### Impact of climate change on U.S. Lyme disease ###
 
 Lyme disease cases have been increasing in the U.S. in recent decades. Despite well known associations between aspects of weather and climate and tick life cycles, the role of climate *change* in this increase in cases was unclear. Isolating the impact of climate change on cases is difficult due to changes in other known drivers like public and physician awareness of ticks, land cover, income, and changes in Lyme disease case definitions.  Using a statistical modeling approach that could account for concurrent changes in these drivers, we were able to isolate the effect of climate on U.S. Lyme disease cases in the past 18 years. We found that the strongest climate-disease association was between warming annual temperatures and increasing incidence in the Northeast. Our Lyme disease projections indicated that cases in the Northeast will increase significantly by 2050, but only under an upper climate change scenario (RCP8.5), and with large uncertainty around this projected increase. See the full paper [here](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15435).
 
 <p align="center">
-  <img width="700"
+  <img width="800"
     src="http://lcouper.github.io/assets/Couper_GCB_Figure3b.jpg">
   </p>   
   
+---
 
 
 
