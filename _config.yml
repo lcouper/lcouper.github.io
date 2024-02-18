@@ -185,7 +185,7 @@ collections:
   outreach:
     output: true
     permalink: /:collection/:path/
-  communication:
+  media:
     output: true
     permalink: /:collection/:path/
   contact:
