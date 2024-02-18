@@ -5,8 +5,10 @@ permalink: /media/
 author_profile: true
 ---
 
-Please see below for various articles and videos I've worked on communicating research (my own and that of others)
-   
+Please see below for various press I've worked on communicating research (my own and that of others)
+
+<a href="https://www.sfchronicle.com/health/article/climate-change-pushing-valley-fever-northward-18277182.php/"> Impacts of climate change on Valley Fever spread in California </a>
+
 <a href="https://stanforddaily.com/2022/01/20/two-year-anniversary-stanfords-contribution-to-covid-19-research/"> Covid publication trends (through the Stanford Daily) </a>
 
 <a href="https://scientistsspeakup.org/ticks-are-marching-northward-what-can-we-do/"> Climate change and tick expansion (through Scientists Speak Up) </a>
