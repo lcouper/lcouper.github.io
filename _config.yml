@@ -231,7 +231,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _communication
+  # _media
   - scope:
       path: ""
       type: posts
