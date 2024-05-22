@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /media/
+permalink: /communication/
 author_profile: true
 ---
 
