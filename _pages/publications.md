@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-1. **Couper LI**, Farner JE, Lyberger KP, Lee AS, Mordecai EA. Evidence of thermal adaptation in a widely distributed mosquito species. *Submimtted 2023.* [bioRxiv Link.](https://www.biorxiv.org/content/10.1101/2023.03.02.530886v1.article-metrics)   
+1. **Couper LI**, Farner JE, Lyberger KP, Lee AS, Mordecai EA. Evidence of thermal adaptation in a widely distributed mosquito species. Proc B. 2024. [Link.](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2457)
 
 2. **Couper LI** & Mordecai EA. Ecological drivers of dog heartworm transmission in California. Parasites & Vectors. 2022. [Link.](https://link.springer.com/article/10.1186/s13071-022-05526-x)
 
