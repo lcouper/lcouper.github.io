@@ -15,6 +15,12 @@ Aided by anthropogenic global change, environmentally-mediated diseases such as 
 - Estimating the impact of past climate warming on Lyme disease incidence in the U.S. using a panel regression approach, and using oserved relationships to project disease burdens under future warming scenarios [4](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15435). 
 - Investigating the impact of oil and gas well drilling on Valley Fever incidence using a case-crossover approach (work in prep).
 
+<p align="center">
+  <img width="400"
+    src="https://github.com/user-attachments/assets/4372945c-7d21-4fde-a4d8-a91965ee7837">
+  </p>    
+
+
 ---
 
 ### Potential for rapid adaptation ###
