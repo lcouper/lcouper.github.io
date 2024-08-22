@@ -4,7 +4,9 @@ permalink: /teaching&tutorials/
 author_profile: true
 ---
 
-I care deeply about expanding educational and research opportunities to a wider audience. Please see below for some analysis tutorials I've put together to share analytical approaches commonly used in ecology, evolution, and epidemiology.
+I care deeply about expanding educational and research opportunities to a wider audience. Please see below for some analysis tutorials I've put together to share analytical approaches commonly used in ecology, evolution, and epidemiology, as well as the full materials for an introductory R programming course (including lecture notes, homeworks, and solutions).
+
+Please feel free to contact me with any questions or feedback about these materials!
 
 ## Analysis Tutorials ##
 
