@@ -4,7 +4,7 @@ permalink: /teaching&tutorials/
 author_profile: true
 ---
 
-I care deeply about expanding educational and research opportunities to a wider audience. Below are some of the teaching and mentorship experiences I've been able to take part in, and some analysis tutorials I'm working on to share methods used in common biological analyses. 
+I care deeply about expanding educational and research opportunities to a wider audience. Below are some of the teaching and mentorship experiences I've been able to take part in, and some analysis tutorials I've put together to share methods used in common biological analyses. 
 
 ## Teaching ##
 
@@ -21,4 +21,16 @@ I care deeply about expanding educational and research opportunities to a wider 
 
 ## Analysis Tutorials ##
 
-- <a href="https://github.com/lcouper/AnalysisTutorials/tree/main/BayesianCurveFitting">Bayesian modeling of thermal responses</a>   
+Please see here for examples of common analytical approaches used in ecology, evolution, and epidemiology including:  
+
+- [Bayesian curve fitting](https://github.com/lcouper/AnalysisTutorials/tree/main/BayesianCurveFitting) 🧠
+- [Panel regression](https://github.com/lcouper/AnalysisTutorials/tree/main/PanelRegression)  📈
+- [Gradient boosted machines](https://github.com/lcouper/AnalysisTutorials/tree/main/GradientBoostedMachines) 🌳
+- [Mechanistic transmission modeling](https://github.com/lcouper/AnalysisTutorials/tree/main/MechanisticTransmissionModel) 🦟 
+- Case-crossover 😷
+- WGS analysis including 🧬 :
+  - sequence data processing
+  - variant calling
+  - GWA
+
+Note these were made with guidance and contributions from: Erin Mordecai, Caroline Glidden, Mauricio Cruz-Loya, Marta Shocket, Jennifer Head, and Mark Bitter
