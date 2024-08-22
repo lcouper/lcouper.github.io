@@ -4,7 +4,7 @@ permalink: /teaching&tutorials/
 author_profile: true
 ---
 
-I care deeply about expanding educational and research opportunities to a wider audience. Below are some of the teaching and mentorship experiences I've been able to take part in, and some analysis tutorials I've put together to share methods used in common biological analyses. 
+I care deeply about expanding educational and research opportunities to a wider audience. Below are some of the teaching and mentorship experiences I've been able to take part in, and some analysis tutorials I've put together to share analytical approaches commonly used in ecology, evolution, and epidemiology.
 
 ## Teaching ##
 
@@ -20,8 +20,6 @@ I care deeply about expanding educational and research opportunities to a wider 
 - Research Mentor, Stanford Biology Summer Undergraduate Reseach Program (2018, 2020)  
 
 ## Analysis Tutorials ##
-
-Please see here for examples of common analytical approaches used in ecology, evolution, and epidemiology including:  
 
 - [Bayesian curve fitting](https://github.com/lcouper/AnalysisTutorials/tree/main/BayesianCurveFitting) 🧠
 - [Panel regression](https://github.com/lcouper/AnalysisTutorials/tree/main/PanelRegression)  📈
