@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-*Updated 05/21/24* 
+*Updated 10/19/24* 
 
 <a href="https://lcouper.github.io/assets/Couper_CV_Oct2024.pdf" target="_blank">Couper CV</a>
