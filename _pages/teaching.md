@@ -15,7 +15,7 @@ Please feel free to contact me with any questions or feedback about these materi
 - [Gradient boosted machines](https://github.com/lcouper/AnalysisTutorials/tree/main/GradientBoostedMachines) 🌳
 - [Mechanistic transmission modeling](https://github.com/lcouper/AnalysisTutorials/tree/main/MechanisticTransmissionModel) 🦟 
 - Case-crossover 😷
-- WGS analysis including 🧬 :
+- [WGS analysis including](https://github.com/lcouper/MosquitoThermalSelection/tree/main/Sequence_Analysis) 🧬 :
   - sequence data processing
   - variant calling
   - GWA
