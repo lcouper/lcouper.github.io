@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- **Couper LI**, Dodge TO, Jemker JA, Kim BY, Exposito-Alonso M, Brem RA, Mordecai EA, Bitter MC. Evolutionary adaptation under climate change: *Aedes* sp. demonstrates potential to adapt to warming. PNAS. 2025. [Link.](https://www.pnas.org/doi/10.1073/pnas.2418199122)
+
 - **Couper LI**, Uwera Nalukwago D Lyberger KP, Farner JE, Mordecai EA. How much warming can
 mosquito vectors tolerate? Global Change Biology. 2024. [Link.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17610?casa_token=Xq8yguAtFtMAAAAA%3A4HxIsaia-vTzII3MBTtVep_m_2EhOVYM_QVrr5xHl70hS64Dh6NZmJFwqAt9aFkME2-9fbKCXPzBUs4-)
 
