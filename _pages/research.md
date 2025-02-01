@@ -22,7 +22,7 @@ Aided by anthropogenic global change, environmentally-mediated diseases such as 
 
 As climate change is poised to cause massive shifts in disease distributions and burdens, predicting these shifts is a major theme in biological research that is critical for public health preparedness. Yet virtually all current projections assume that pathogens and vectors will not evolve in response to environmental change, as their adaptive potential remains unknown. A recent aim of my work has been to estimate the potential for adaptive evolution in infectious disease systems, drawing on concepts and approaches from conservation biology and evolutionary genomics.
 
-- Identifying data gaps in estimating evolutionary potential in mosquito heat toelarnce [5](https://elifesciences.org/articles/69630).
+- Identifying data gaps in estimating evolutionary potential in mosquito heat tolerance [5](https://elifesciences.org/articles/69630).
 - Establishing a novel model system for investigating environmental tolerance and host-parasite interactions in mosquitoes
 - Investigating the evidence for local adaptation in mosquito heat tolerance across a species range [6](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2457?casa_token=Nj8_5HKdUvUAAAAA%3AT42HDYZ3_oJUQ7miOS9EcjrzHLFqO7jSG0bp5nBezNRp4XZ3mN-pZCg9vOueXnDig20qg7QuEeoYNhc).
 - Estimating potential rates of adaptive evolution in comparison to climte warming by measuring responses to selection and genomic variation in mosquito heat tolerance [7](https://www.pnas.org/doi/10.1073/pnas.2418199122).
