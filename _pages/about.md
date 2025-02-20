@@ -12,7 +12,7 @@ I am currently a postdoc in Environmental Health Sciences at UC Berkeley with Ju
 
 
 <p align="center">
-  <img width="600"
+  <img width="400"
     src="http://lcouper.github.io/assets/Sampling1.jpg">
   </p>    
 <p align="center"> 
