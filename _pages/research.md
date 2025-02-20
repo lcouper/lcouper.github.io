@@ -7,7 +7,7 @@ author_profile: true
 My research focuses on identifying specific aspects of global change that drive disease transmission and understanding the potential for rapid adaptation in infectious disease systems.
 
 ---
-### Identifying specific global change drivers of transmission ###
+### Identifying drivers of transmission ###
 
 Aided by anthropogenic global change, environmentally-mediated diseases such as dengue, Lyme disease, and Valley Fever are rapidly (re)emerging and expanding. Addressing this threat to human and planetary health requires understanding and preparing for specific impacts of global change on disease risk. Yet doing so is challenging as infectious disease systems exist across ecologically and culturally diverse settings and are shaped by numerous, concurrent biotic and abiotic drivers. My work seeks to overcome these challenges by borrowing approaches for causal inference in complex systems from adjacent fields including econometrics and epidemiology. Some examples of this include:   
 
