@@ -37,7 +37,7 @@ Aided by anthropogenic global change, diseases such as dengue, Lyme disease, and
 ### Drivers of vector competence ###
 
 - Investigating how vertebrate host communities shape the tick microbiome and Lyme disease transmission potential by using metagenomic sequencing and controlled lab experiments [Couper et al. 2019. P&V](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-020-3893-x). [Ring, Couper et al. 2022. Mol Ecol.](https://onlinelibrary.wiley.com/doi/10.1111/mec.16413).
-- Identifying the key traits governing vector competence in Lyme disease vectors [Couper et al. 2020](https://link.springer.com/article/10.1186/s13071-020-3893-x). 
+- Identifying the key traits governing vector competence in Lyme disease vectors [Couper et al. 2020](https://link.springer.com/article/10.1186/s13071-020-3893-x).  
 
 
 
