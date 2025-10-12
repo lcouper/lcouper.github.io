@@ -9,6 +9,14 @@ author_profile: true
 
 - **Couper LI**, Dodge TO, Jemker JA, Kim BY, Exposito-Alonso M, Brem RA, Mordecai EA, Bitter MC. Evolutionary adaptation under climate change: *Aedes* sp. demonstrates potential to adapt to warming. PNAS. 2025. [Link.](https://www.pnas.org/doi/10.1073/pnas.2418199122)
 
+- Radosevich M, Head JR, **Couper LI**, Weaver AK, Campo SK, Montoya L, Taylor J, Remais JV.
+Characterizing the soil microbial community associated with the fungal pathogen Coccidioides immitis.
+Journal of Fungi. 2025. [Link](https://www.mdpi.com/2309-608X/11/4/309). 
+
+- Radosevich M, Dobson S, Weaver AK, Lampman P, Wallace T, **Couper LI**, Taylor J, Remais JV,
+Kobziar L, Markwiese J, Head JR. Detection of airborne Coccidioides spores in eastern San Luis Obispo
+County, California, using unmanned aircraft systems. Environmental Science & Technology Letters. 2025. [Link](https://pubs.acs.org/doi/full/10.1021/acs.estlett.4c01089).
+
 - **Couper LI**, Uwera Nalukwago D Lyberger KP, Farner JE, Mordecai EA. How much warming can
 mosquito vectors tolerate? Global Change Biology. 2024. [Link.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17610?casa_token=Xq8yguAtFtMAAAAA%3A4HxIsaia-vTzII3MBTtVep_m_2EhOVYM_QVrr5xHl70hS64Dh6NZmJFwqAt9aFkME2-9fbKCXPzBUs4-)
 
