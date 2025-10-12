@@ -17,16 +17,14 @@ Journal of Fungi. 2025. [Link](https://www.mdpi.com/2309-608X/11/4/309).
 Kobziar L, Markwiese J, Head JR. Detection of airborne Coccidioides spores in eastern San Luis Obispo
 County, California, using unmanned aircraft systems. Environmental Science & Technology Letters. 2025. [Link](https://pubs.acs.org/doi/full/10.1021/acs.estlett.4c01089).
 
+- **Couper LI**, Dodge TO, Jemker JA, Kim BY, Exposito-Alonso M, Brem RA, Mordecai EA, Bitter MC. Evolutionary adaptation under climate change: *Aedes* sp. demonstrates potential to adapt to warming. PNAS. 2025. [Link.](https://www.pnas.org/doi/10.1073/pnas.2418199122)
+
+- **Couper LI**, Gonzalez DJX, Camponuri SK, Weaver AK, Cooksey GS, Vugia D, Kimura AC, Jain S, Tay-
+lor J, Balmes J, Eisen EA, Remais JV, Head JR. Oil and gas well development and coccidioidomycosis risk
+in California: A case-crossover study. Submitted. [Link](medRxiv: doi:10.1101/2025.09.19.25336198).
+
 - **Couper LI**, Uwera Nalukwago D Lyberger KP, Farner JE, Mordecai EA. How much warming can
 mosquito vectors tolerate? Global Change Biology. 2024. [Link.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17610?casa_token=Xq8yguAtFtMAAAAA%3A4HxIsaia-vTzII3MBTtVep_m_2EhOVYM_QVrr5xHl70hS64Dh6NZmJFwqAt9aFkME2-9fbKCXPzBUs4-)
-
-- Radosevich M, Head JR, **Couper LI**, Weaver AK, Campo SK, Montoya L, Taylor J, Remais JV.
-Characterizing the soil microbial community associated with the fungal pathogen Coccidioides immitis.
-*Under Review*. Available now at [bioRxiv.](https://www.biorxiv.org/content/10.1101/2024.09.27.615053v1)
-
-- Radosevich M, Dobson S, Weaver AK, Lampman P, Wallace T, Couper LI, Taylor J, Remais JV,
-Kobziar L, Markwiese J, Head JR. Detection of airborne Coccidioides spores in eastern San Luis Obispo
-County, California, using unmanned aircraft systems. *Under Review*. Available now at [bioRxiv.](https://www.biorxiv.org/content/10.1101/2024.10.28.620741v1)
 
 - Lyberger KP, Farner JE, **Couper LI**, Mordecai EA. A mosquito parasite is locally adapted to its host but not temperature. The American Naturalist. 2024. [Link.](https://www.journals.uchicago.edu/doi/full/10.1086/730522)
 
