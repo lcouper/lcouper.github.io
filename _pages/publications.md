@@ -21,7 +21,7 @@ County, California, using unmanned aircraft systems. Environmental Science & Tec
 
 - **Couper LI**, Gonzalez DJX, Camponuri SK, Weaver AK, Cooksey GS, Vugia D, Kimura AC, Jain S, Tay-
 lor J, Balmes J, Eisen EA, Remais JV, Head JR. Oil and gas well development and coccidioidomycosis risk
-in California: A case-crossover study. Submitted. [Link.](medRxiv: doi:10.1101/2025.09.19.25336198)
+in California: A case-crossover study. Submitted. [Link.](https://www.medrxiv.org/content/10.1101/2025.09.19.25336198v1)
 
 - **Couper LI**, Uwera Nalukwago D Lyberger KP, Farner JE, Mordecai EA. How much warming can
 mosquito vectors tolerate? Global Change Biology. 2024. [Link.](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.17610?casa_token=Xq8yguAtFtMAAAAA%3A4HxIsaia-vTzII3MBTtVep_m_2EhOVYM_QVrr5xHl70hS64Dh6NZmJFwqAt9aFkME2-9fbKCXPzBUs4-)
