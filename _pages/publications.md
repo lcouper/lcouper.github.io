@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+- Lyberger KP, Robinson AR, **Couper LI**, Delwel I, Glidden CK Qian C, Burslem A, Fernandez F, Gao B, Gabriella G, Gomez J, Greenland KB, Griﬃn C, Jackson S, King A, Manes O, Song A, Tran E, Wilairat S, Mordecai EA. A scoping review of climate-change-driven range shifts in mosquito vectors. In press at GCB. 2025. [Link.](https://www.biorxiv.org/content/10.1101/2025.03.25.645279v1.abstract). 
+
 - **Couper LI**, Dodge TO, Jemker JA, Kim BY, Exposito-Alonso M, Brem RA, Mordecai EA, Bitter MC. Evolutionary adaptation under climate change: *Aedes* sp. demonstrates potential to adapt to warming. PNAS. 2025. [Link.](https://www.pnas.org/doi/10.1073/pnas.2418199122)
 
 - **Couper LI**, Uwera Nalukwago D Lyberger KP, Farner JE, Mordecai EA. How much warming can
