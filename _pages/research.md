@@ -4,16 +4,16 @@ permalink: /research/
 author_profile: true
 ---
 
-My research focuses on identifying specific aspects of global change that drive disease transmission and understanding the potential for rapid adaptation in infectious disease systems.
+Please see below for examples from a few themes of my research.
 
 ---
-### Identify drivers of diesase transmission ###
+### Identifying specific drivers diesase transmission ###
 
 Aided by anthropogenic global change, diseases such as dengue, Lyme disease, and Valley Fever are rapidly (re)emerging and expanding. Addressing this threat to human and planetary health requires understanding and preparing for specific impacts of environmental change on disease risk. Yet doing so is challenging as infectious disease systems exist across ecologically and culturally diverse settings and are shaped by numerous, concurrent biotic and abiotic drivers. My work seeks to overcome these challenges by borrowing approaches for causal inference in complex systems from adjacent fields including econometrics and epidemiology. Some examples of this include:   
 
 - Estimating the impact of past climate warming on Lyme disease incidence in the U.S. using a panel regression approach, and using oserved relationships to project disease burdens under future warming scenarios [Couper et al. 2021. GCB](https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.15435). 
-- Investigating the impact of oil and gas well drilling on Valley Fever incidence using a case-crossover approach [Couper et al. medRxiv](https://www.medrxiv.org/content/10.1101/2025.09.19.25336198v1). 
-- Identifying how vertebrate host communities shape the tick microbiome and Lyme disease transmission potential by using metagenomic sequencing and controlled lab experiments [Couper et al. 2019. P&V](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-020-3893-x). [Ring, Couper et al. 2022. Mol Ecol.](https://onlinelibrary.wiley.com/doi/10.1111/mec.16413).
+- Investigating the impact of oil and gas well drilling on Valley Fever incidence using a case-crossover approach [Couper et al. medRxiv](https://www.medrxiv.org/content/10.1101/2025.09.19.25336198v1).
+- Identifying key mosquito species involved in dog heartworm transmission in California [Couper et al. 2022. P&V](https://link.springer.com/article/10.1186/s13071-022-05526-x).
 
 ---
 
@@ -32,6 +32,11 @@ As climate change is poised to cause massive shifts in disease distributions and
 
 
 ---
+
+### Molecul ###
+
+- Identifying how vertebrate host communities shape the tick microbiome and Lyme disease transmission potential by using metagenomic sequencing and controlled lab experiments [Couper et al. 2019. P&V](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-020-3893-x). [Ring, Couper et al. 2022. Mol Ecol.](https://onlinelibrary.wiley.com/doi/10.1111/mec.16413).
+
 
 
 
