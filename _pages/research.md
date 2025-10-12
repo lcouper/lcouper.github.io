@@ -7,6 +7,23 @@ author_profile: true
 Please see below for examples from a few themes of my research.
 
 ---
+
+### Evolutionary dynamics of adaptation and emergence ###
+
+As climate change is poised to cause massive shifts in disease distributions and burdens, predicting these shifts is a major theme in biological research that is critical for public health preparedness. Yet virtually all current projections assume that pathogens and vectors will not evolve in response to environmental change, as their adaptive potential remains unknown. My work aims to identify the potential for adaptive evolution in infectious disease systems, drawing on concepts and approaches from conservation biology and evolutionary genomics.
+
+- Identifying data gaps in estimating evolutionary potential in mosquito heat tolerance [Couper et al. 2021. eLife](https://elifesciences.org/articles/69630).
+- Investigating the evidence for local adaptation in mosquito heat tolerance across a species range [Couper et al. 2024. Proc B](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2457?casa_token=Nj8_5HKdUvUAAAAA%3AT42HDYZ3_oJUQ7miOS9EcjrzHLFqO7jSG0bp5nBezNRp4XZ3mN-pZCg9vOueXnDig20qg7QuEeoYNhc).
+- Estimating potential rates of adaptive evolution in comparison to climte warming by measuring responses to selection and genomic variation in mosquito heat tolerance [Couper et al. 2025. PNAS](https://www.pnas.org/doi/10.1073/pnas.2418199122).
+
+<p align="center">
+  <img width="600"
+    src="http://lcouper.github.io/assets/AeSierrensisWork.jpg">
+  </p>    
+
+
+---
+
 ### Identifying specific drivers diesase transmission ###
 
 Aided by anthropogenic global change, diseases such as dengue, Lyme disease, and Valley Fever are rapidly (re)emerging and expanding. Addressing this threat to human and planetary health requires understanding and preparing for specific impacts of environmental change on disease risk. Yet doing so is challenging as infectious disease systems exist across ecologically and culturally diverse settings and are shaped by numerous, concurrent biotic and abiotic drivers. My work seeks to overcome these challenges by borrowing approaches for causal inference in complex systems from adjacent fields including econometrics and epidemiology. Some examples of this include:   
@@ -17,25 +34,10 @@ Aided by anthropogenic global change, diseases such as dengue, Lyme disease, and
 
 ---
 
-### Evolutionary dynamics of adaptation and emergence ###
+### Drivers of vector competence ###
 
-As climate change is poised to cause massive shifts in disease distributions and burdens, predicting these shifts is a major theme in biological research that is critical for public health preparedness. Yet virtually all current projections assume that pathogens and vectors will not evolve in response to environmental change, as their adaptive potential remains unknown. My work aims to identify the potential for adaptive evolution in infectious disease systems, drawing on concepts and approaches from conservation biology and evolutionary genomics.
-
-- Identifying data gaps in estimating evolutionary potential in mosquito heat tolerance [Couper et al. 2021. eLife](https://elifesciences.org/articles/69630).
-- Investigating the evidence for local adaptation in mosquito heat tolerance across a species range [Couper et al. 2024. Proc B.](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2457?casa_token=Nj8_5HKdUvUAAAAA%3AT42HDYZ3_oJUQ7miOS9EcjrzHLFqO7jSG0bp5nBezNRp4XZ3mN-pZCg9vOueXnDig20qg7QuEeoYNhc).
-- Estimating potential rates of adaptive evolution in comparison to climte warming by measuring responses to selection and genomic variation in mosquito heat tolerance [Couper et al. 2025. PNAS.](https://www.pnas.org/doi/10.1073/pnas.2418199122).
-
-<p align="center">
-  <img width="600"
-    src="http://lcouper.github.io/assets/AeSierrensisWork.jpg">
-  </p>    
-
-
----
-
-### Molecul ###
-
-- Identifying how vertebrate host communities shape the tick microbiome and Lyme disease transmission potential by using metagenomic sequencing and controlled lab experiments [Couper et al. 2019. P&V](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-020-3893-x). [Ring, Couper et al. 2022. Mol Ecol.](https://onlinelibrary.wiley.com/doi/10.1111/mec.16413).
+- Investigating how vertebrate host communities shape the tick microbiome and Lyme disease transmission potential by using metagenomic sequencing and controlled lab experiments [Couper et al. 2019. P&V](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-020-3893-x). [Ring, Couper et al. 2022. Mol Ecol.](https://onlinelibrary.wiley.com/doi/10.1111/mec.16413).
+- Identifying the key traits governing vector competence in Lyme disease vectors [Couper et al. 2020](https://link.springer.com/article/10.1186/s13071-020-3893-x). 
 
 
 
