@@ -17,14 +17,13 @@ Aided by anthropogenic global change, diseases such as dengue, Lyme disease, and
 
 ---
 
-### Potential for rapid adaptation ###
+### Evolutionary dynamics of adaptation and emergence ###
 
-As climate change is poised to cause massive shifts in disease distributions and burdens, predicting these shifts is a major theme in biological research that is critical for public health preparedness. Yet virtually all current projections assume that pathogens and vectors will not evolve in response to environmental change, as their adaptive potential remains unknown. A recent aim of my work has been to estimate the potential for adaptive evolution in infectious disease systems, drawing on concepts and approaches from conservation biology and evolutionary genomics.
+As climate change is poised to cause massive shifts in disease distributions and burdens, predicting these shifts is a major theme in biological research that is critical for public health preparedness. Yet virtually all current projections assume that pathogens and vectors will not evolve in response to environmental change, as their adaptive potential remains unknown. My work aims to identify the potential for adaptive evolution in infectious disease systems, drawing on concepts and approaches from conservation biology and evolutionary genomics.
 
-- Identifying data gaps in estimating evolutionary potential in mosquito heat tolerance [6](https://elifesciences.org/articles/69630).
-- Establishing a novel model system for investigating environmental tolerance and host-parasite interactions in mosquitoes
-- Investigating the evidence for local adaptation in mosquito heat tolerance across a species range [7](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2457?casa_token=Nj8_5HKdUvUAAAAA%3AT42HDYZ3_oJUQ7miOS9EcjrzHLFqO7jSG0bp5nBezNRp4XZ3mN-pZCg9vOueXnDig20qg7QuEeoYNhc).
-- Estimating potential rates of adaptive evolution in comparison to climte warming by measuring responses to selection and genomic variation in mosquito heat tolerance [8](https://www.pnas.org/doi/10.1073/pnas.2418199122).
+- Identifying data gaps in estimating evolutionary potential in mosquito heat tolerance [Couper et al. 2021. eLife](https://elifesciences.org/articles/69630).
+- Investigating the evidence for local adaptation in mosquito heat tolerance across a species range [Couper et al. 2024. Proc B.](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2023.2457?casa_token=Nj8_5HKdUvUAAAAA%3AT42HDYZ3_oJUQ7miOS9EcjrzHLFqO7jSG0bp5nBezNRp4XZ3mN-pZCg9vOueXnDig20qg7QuEeoYNhc).
+- Estimating potential rates of adaptive evolution in comparison to climte warming by measuring responses to selection and genomic variation in mosquito heat tolerance [Couper et al. 2025. PNAS.](https://www.pnas.org/doi/10.1073/pnas.2418199122).
 
 <p align="center">
   <img width="600"
