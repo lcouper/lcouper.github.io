@@ -14,7 +14,7 @@ Please feel free to contact me with any questions or feedback about these materi
 - [Panel regression](https://github.com/lcouper/AnalysisTutorials/tree/main/PanelRegression)  📈
 - [Gradient boosted machines](https://github.com/lcouper/AnalysisTutorials/tree/main/GradientBoostedMachines) 🌳
 - [Mechanistic transmission modeling](https://github.com/lcouper/AnalysisTutorials/tree/main/MechanisticTransmissionModel) 🦟 
-- Case-crossover (will be posted soon) 😷
+- [Case-crossover](https://github.com/lcouper/AnalysisTutorials/tree/main/CaseCrossover) 😷
 - [WGS analysis including](https://github.com/lcouper/MosquitoThermalSelection/tree/main/Sequence_Analysis) 🧬 :
   - sequence data processing
   - variant calling
