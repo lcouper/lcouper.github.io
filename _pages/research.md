@@ -25,7 +25,7 @@ As climate change is poised to cause massive shifts in disease distributions and
 
 ---
 
-### Identifying specific drivers diesase transmission ###
+### Identifying specific drivers of diesase transmission ###
 
 Aided by anthropogenic global change, diseases such as dengue, Lyme disease, and Valley Fever are rapidly (re)emerging and expanding. Addressing this threat to human and planetary health requires understanding and preparing for specific impacts of environmental change on disease risk. Yet doing so is challenging as infectious disease systems exist across ecologically and culturally diverse settings and are shaped by numerous, concurrent biotic and abiotic drivers. My work seeks to overcome these challenges by borrowing approaches for causal inference in complex systems from adjacent fields including econometrics and epidemiology. Some examples of this include:   
 
