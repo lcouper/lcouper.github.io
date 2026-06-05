@@ -4,7 +4,9 @@ permalink: /media/
 author_profile: true
 ---
 
-Please see below for various press I've worked on communicating research (my own and that of others)
+## News & Media
+
+Selected press coverage and science communication:
 
 <a href="https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue?shem=rimspwouoe/"> Climate change and Aedes aegypti in California, LA Times
 
@@ -13,30 +15,19 @@ Please see below for various press I've worked on communicating research (my own
 <a href="https://scientistsspeakup.org/ticks-are-marching-northward-what-can-we-do/"> Scientists Speak Up. Climate change and tick expansion (through Scientists Speak Up) </a>
       
 <a href="https://www.mordecailab.com/blog/submitting-a-paper"> How to submit a scientific paper (through the Mordecai lab blog) </a>
-      
-```markdown
-## News & Media
 
-Selected press, public writing, and science communication pieces related to my research and broader work communicating infectious disease ecology, climate change, and public health.
 
-### Press
+- **Los Angeles Times** — [Climate change and *Aedes aegypti* in California](https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue?shem=rimspwouoe/)  
+  Featured expertise on climate change, *Aedes aegypti*, and dengue risk in California.
 
-**Los Angeles Times**  
-[Climate change and *Aedes aegypti* in California](https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue?shem=rimspwouoe/)  
-Featured expertise on climate change, *Aedes aegypti*, and dengue risk in California.
+- **San Francisco Chronicle** — [Impacts of climate change on Valley fever spread in California](https://www.sfchronicle.com/health/article/climate-change-pushing-valley-fever-northward-18277182.php/)  
+  Discussed how climate change may influence the geographic spread and public health burden of Valley fever.
 
-**San Francisco Chronicle**  
-[Impacts of climate change on Valley fever spread in California](https://www.sfchronicle.com/health/article/climate-change-pushing-valley-fever-northward-18277182.php/)  
-Discussed how climate change may influence the geographic spread and public health burden of Valley fever.
+- **Scientists Speak Up** — [Ticks are marching northward. What can we do?](https://scientistsspeakup.org/ticks-are-marching-northward-what-can-we-do/)  
+  Public-facing science communication piece on climate change, tick expansion, and disease risk.
 
-### Public Writing & Science Communication
-
-**Scientists Speak Up**  
-[Ticks are marching northward. What can we do?](https://scientistsspeakup.org/ticks-are-marching-northward-what-can-we-do/)  
-Public-facing science communication piece on climate change, tick expansion, and disease risk.
-
-**Mordecai Lab Blog**  
-[How to submit a scientific paper](https://www.mordecailab.com/blog/submitting-a-paper)  
-Practical guidance for early-career researchers navigating the process of submitting a scientific manuscript.
+- **Mordecai Lab Blog** — [How to submit a scientific paper](https://www.mordecailab.com/blog/submitting-a-paper)  
+  Practical guidance for early-career researchers navigating the process of submitting a scientific manuscript.
 ```
+
 
