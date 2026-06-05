@@ -18,16 +18,12 @@ Selected press coverage and science communication:
 
 
 - **Los Angeles Times** — [Climate change and *Aedes aegypti* in California](https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue?shem=rimspwouoe/)  
-  Featured expertise on climate change, *Aedes aegypti*, and dengue risk in California.
 
 - **San Francisco Chronicle** — [Impacts of climate change on Valley fever spread in California](https://www.sfchronicle.com/health/article/climate-change-pushing-valley-fever-northward-18277182.php/)  
-  Discussed how climate change may influence the geographic spread and public health burden of Valley fever.
 
 - **Scientists Speak Up** — [Ticks are marching northward. What can we do?](https://scientistsspeakup.org/ticks-are-marching-northward-what-can-we-do/)  
-  Public-facing science communication piece on climate change, tick expansion, and disease risk.
 
 - **Mordecai Lab Blog** — [How to submit a scientific paper](https://www.mordecailab.com/blog/submitting-a-paper)  
-  Practical guidance for early-career researchers navigating the process of submitting a scientific manuscript.
-```
+
 
 
