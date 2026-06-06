@@ -4,9 +4,7 @@ permalink: /media/
 author_profile: true
 ---
 
-## News & Media
-
-Selected press coverage and science communication:
+Please see below for selected press coverage and science communication:
 
 - *Los Angeles Times* — [*Aedes aegypti* control in California](https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue?shem=rimspwouoe/)
 
