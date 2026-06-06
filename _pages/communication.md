@@ -4,21 +4,17 @@ permalink: /communication/
 author_profile: true
 ---
 
-Please see below for various press I've worked on communicating research (my own and that of others)
+## News & Media
 
+Selected press coverage and science communication:
 
-<a href="https://www.sfchronicle.com/science/article/chikungunya-virus-california-risk-20809578.php/"> Potential for chikungunya virus spread in California </a>
+- *Los Angeles Times* — [*Aedes aegypti* control in California](https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue?shem=rimspwouoe/)
 
-<a href="https://www.sfchronicle.com/health/article/climate-change-pushing-valley-fever-northward-18277182.php/"> Impacts of climate change on Valley Fever spread in California </a>
+- *San Francisco Chronicle* — [Potential for Chikungunya in California](https://www.sfchronicle.com/science/article/chikungunya-virus-california-risk-20809578.php/)
 
-<a href="https://stanforddaily.com/2022/01/20/two-year-anniversary-stanfords-contribution-to-covid-19-research/"> Covid publication trends (through the Stanford Daily) </a>
+- *San Francisco Chronicle* — [Impacts of climate change on Valley fever spread in California](https://www.sfchronicle.com/health/article/climate-change-pushing-valley-fever-northward-18277182.php/)
 
-<a href="https://scientistsspeakup.org/ticks-are-marching-northward-what-can-we-do/"> Climate change and tick expansion (through Scientists Speak Up) </a>
-   
-<a href="https://scientistsspeakup.org/a-state-on-fire-trends-and-solutions-to-california-wildfires/"> CA wildfires (through Scientists Speak Up) </a>
-      
-<a href="https://www.mordecailab.com/blog/submitting-a-paper"> How to submit a scientific paper (through the Mordecai lab blog) </a>
-      
-<a href="https://www.mordecailab.com/blog/2022/3/14/navigating-mental-health-resources-at-stanford"> Navigating mental health resources at Stanford (through the Mordecai lab blog) </a>
+- *Scientists Speak Up* — [Ticks are marching northward. What can we do?](https://scientistsspeakup.org/ticks-are-marching-northward-what-can-we-do/)
 
-<a href="https://www.youtube.com/watch?v=VEeEfCbqWRU"> Somewhat embarassing video about the Lyme disease pathogen, *Borrelia burgdorferi* </a>
+- *Mordecai Lab Blog* — [How to submit a scientific paper](https://www.mordecailab.com/blog/submitting-a-paper)
+
