@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a postdoc in Environmental Health Sciences at UC Berkeley with Justin Remais. I received my PhD in Biology from Stanford University working with Erin Mordecai. My research investigates the ecology and evolution of infectious diseases in a changing world, and seeks to undertsand: How does global change impact the emergence and spread of disease? And how are pathogens and vectors adapting in response? 
+I am currently a postdoc in Environmental Health Sciences at UC Berkeley with Justin Remais. I received my PhD in Biology from Stanford University working with Erin Mordecai. My research investigates the ecology and evolution of infectious diseases in a changing world, and seeks to understand: How does global change impact the emergence and spread of disease? And how are pathogens and vectors adapting in response? 
 
 
 <p align="center">
