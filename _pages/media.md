@@ -6,6 +6,8 @@ author_profile: true
 
 Please see below for selected press coverage and science communication:
 
+- *Berkeley News* — [Locally-acquired dengue in California](https://news.berkeley.edu/2026/06/09/as-california-warms-cases-of-dengue-fever-are-expected-to-grow/)
+
 - *Los Angeles Times* — [*Aedes aegypti* control in California](https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue?shem=rimspwouoe/)
 
 - *San Francisco Chronicle* — [Potential for Chikungunya in California](https://www.sfchronicle.com/science/article/chikungunya-virus-california-risk-20809578.php/)
